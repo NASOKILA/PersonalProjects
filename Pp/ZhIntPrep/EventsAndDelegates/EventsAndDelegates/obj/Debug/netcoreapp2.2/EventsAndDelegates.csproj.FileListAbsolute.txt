@@ -1,0 +1,11 @@
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp2.2\EventsAndDelegates.deps.json
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp2.2\EventsAndDelegates.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp2.2\EventsAndDelegates.runtimeconfig.dev.json
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp2.2\EventsAndDelegates.dll
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp2.2\EventsAndDelegates.pdb
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp2.2\EventsAndDelegates.csprojAssemblyReference.cache
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp2.2\EventsAndDelegates.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp2.2\EventsAndDelegates.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp2.2\EventsAndDelegates.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp2.2\EventsAndDelegates.dll
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp2.2\EventsAndDelegates.pdb

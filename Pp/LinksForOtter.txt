@@ -1,0 +1,70 @@
+
+
+
+
+
+https://otter-dev.retail-azure.js-devops.co.uk/c3/api/C3Authorisation/
+
+
+
+
+
+FindMyPet : 
+https://findmypetwebapp.azurewebsites.net/Users/MyProfile
+
+
+Tangy Restaurant:
+https://tangyrestaurantapp.azurewebsites.net/
+
+
+Azure Cosmos Db access website:
+https://cosmos.azure.com/
+
+
+otter cosmos db:
+https://portal.azure.com/#@jsainsbury.onmicrosoft.com/resource/subscriptions/55476028-cbd9-47a9-bbdd-04dd8b0406fd/resourceGroups/rg-otter-base-nonprod/providers/Microsoft.DocumentDb/databaseAccounts/otter-cosmosdb-nonprod/overview
+
+
+otter dev servicebus :
+https://portal.azure.com/#@jsainsbury.onmicrosoft.com/resource/subscriptions/55476028-cbd9-47a9-bbdd-04dd8b0406fd/resourceGroups/rg-otter-dev/providers/Microsoft.ServiceBus/namespaces/otter-servicebus-dev/topics
+
+
+otter kubernetes cluster:
+https://portal.azure.com/#@jsainsbury.onmicrosoft.com/resource/subscriptions/55476028-cbd9-47a9-bbdd-04dd8b0406fd/resourceGroups/rg-otter-devtest-aks/providers/Microsoft.ContainerService/managedClusters/otter-devtest-aks/overview
+
+
+otter kubernetes portal :
+http://localhost:8001/api/v1/namespaces/kube-system/services/kubernetes-dashboard/proxy/#!/overview?namespace=otter-dev
+
+
+Anpr API:
+https://otter-dev.retail-azure.js-devops.co.uk/anpr/swagger/index.html
+
+
+C3 API:
+https://otter-dev.retail-azure.js-devops.co.uk/c3/swagger/index.html
+
+
+Barrier Control Service :
+ITS A CONSOLE APP.
+
+
+Barrier with single R, MVC:
+https://otter-dev.retail-azure.js-devops.co.uk/barrier/
+
+
+Intervention API :
+https://otter-dev.retail-azure.js-devops.co.uk/intervention/swagger/index.html
+
+
+Front-End React App :
+https://otter-dev.retail-azure.js-devops.co.uk/frontend/
+
+
+DevOps link :
+https://dev.azure.com/jsainsburys-nda/Otter
+
+
+SHOW POSTMAN SCRIPTS AND TESTS AS WELL !!!
+
+

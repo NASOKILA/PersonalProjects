@@ -1,0 +1,11 @@
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.deps.json
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.runtimeconfig.dev.json
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.dll
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.pdb
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.csprojAssemblyReference.cache
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.dll
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.pdb

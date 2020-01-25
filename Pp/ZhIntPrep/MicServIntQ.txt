@@ -1,0 +1,206 @@
+
+Advantages of Microservices:
+	Can be written in deferent language by deferent team and deployed indipendently.
+	They are responsible for one thing just like the classes in SOLID principles,
+	They are good for agile development,
+	Its good to have one database for each service,
+	They can be scaled indipendently,
+	They have their own security,
+	Allows continuous automated testing, deployments and releases.
+
+Best practices for designing microservices:
+	They can have separate deployments
+	Keep them stateless,
+	They are deployed in deferent containers from deferent images,
+	They have the same code
+	Keep one database for each microservice.
+	It is good to have many small microservices reponsible for one thing only.
+	It is mainly focused on DevOps.
+
+Disadvantages of Microservices:
+	Hard to code between deferent services and increases bugs because they may be using deferent languages.
+
+Monolitic architecture - It is like a big container with only one deployment, like Plan-It.
+
+Cohesion - How elements whitin a module fit toghether.
+
+Coupling - It is the dependencies between components and services, it is said that is good to have low coupling and high cohesion.
+
+REST/RESTfull - Rapresentational State Transfer, it uses HTTP protocol for comunication, our APIs are REST API's.
+
+Spring boot - Used to create Java application.
+
+
+Two way factor authentication - This is similar to what Google is doing, when you first type your username and password, they 
+	send a window to your phone to confirm that that is you.
+	Basically you are authenticating in two ways.
+
+Single way authentication - Just typing your username and password.
+
+Certificates - Clients and servers need to share the same certificates. These are called SSL certificates.
+
+OAuth - Open authorisation protocol, access resources of your facebook, google, github etc...
+
+
+--------------------------------
+
+
+Continuous Integration - Every time a developer commits new code, the code gets build and tested automatically in the pipeline. 
+
+
+--------------------------------
+
+
+DRY - Meand "Dont Repeat Yourself" this is about reusing the already existing code.
+
+
+--------------------------------
+
+
+When to use Azure Functions :
+	Azure Function can contain quite a bit of code. They are typically designed to 
+	serve a single purpose 
+
+	Azure Functions are part of the Azure Web and Mobile suite of App Services and are
+ 	designed to enable (TRIGGER) the creation of small pieces of meaningful, 
+	reusable methods, easily shared across services.
+	
+	They can be written in deferent languages like : Node.js, C#, F#, Python, PHP, 
+	and even Java. 
+
+	
+When to Use Login Apps :
+	You can run a business workflow in Azure using the Logic App service 
+	using triggers and actions. 
+	For instance, you can trigger a workflow by sending an HTTP request.
+
+	Azure logic apps and Azure functions can work toghether.
+	Azure functions are just code beign triggered by an event, A Logic app is a workflow
+	triggered by an event.
+	
+
+---------------------------------
+
+
+For the build pipelines:
+	npm install, 
+	npm run build, 
+	build image, 
+	push image, 
+	commandline which sets the $ENVIRONMENT and $BUILD_ID variables in the .yaml 
+	build artifact for the release.
+
+Release pipeline:
+	
+
+
+---------------------------------
+AZURE INTERVIEW QUESTIONS:
+---------------------------------
+
+
+01.What is Cloud computing?
+	It is like Azure or AWS.
+	It is a cloud platform which we can use to share our software, resources and information.
+	You page only for what you use.
+	
+
+---------------------------------
+
+
+02.What is Service Model and the deferent types of service models in Azure ?	
+	A Service module will help us suport our applications.
+	It tells us what type of service we need as a customer.
+	
+	There are 3 deferent types in Azure:			
+		01. IaaS - Infrastructure as a service : configure and setup OP systems
+		02. PaaS - Platform as a service : configure and setup only application
+		03. Saas - Software as a service : configure only applicaitons
+
+
+---------------------------------
+
+
+03.What are the deferent types of roles in Azure ?
+	There are 3 types of roles in Azure:
+	01.Web role - It is a web frontend solution which allows us to host an application
+	02.Worker role - It works on the background like a windows service, not on the frontend
+	03.VM role - Virtual Machine role, it helps us to customize the VM machine in which we have other tools running	
+
+
+---------------------------------
+
+
+04.Difference between private and public cloud ?
+	Private : Expressroute is a private cloud which it does not pass over the public internet.
+		It is a bit costier and you need to configure it yourself. 
+		But is faster and more secure.
+		IT is not accessible from outside the private network.
+	
+	Public : The public cloud is in the web, it is avaliable for all the world.
+		You pay for what you use. 
+		You share the resource with the world. 
+		It is alot cheaper.
+		There is no waste on the public resource because you can remove what you are not using.
+
+		
+-----------------------------
+
+
+-----------------------------------
+MICROSERVICE ARCHITECTURE QUESTIONS 
+-----------------------------------
+
+
+Monolitic Architecture - It is one big application where if one service is down the entire application is down.
+
+SOA Architecture - It's an application which is split into separate modules, but the modules are stil in the application itself.
+
+Microservice architecture - Small applications responsibe for one thing (Like solid principles), they are indipendent fron eachother, having their own database, security, 
+	deployment, Authentication, Authorisation and more. 
+	They do not know about eachother. they acan be written by deferent teams in deferent technologies like .Net, Java, Node.js...
+	If one service is down the application will still keep working.
+	We can scale it into multiple pods and use a load balancer to balance the traffic. 	
+
+How to break a monolitic architecture into a microservvice one ?
+	Breaking a monolitic app into microservices is a long process, its not that easy, we need to separate the database into multiple databases for each microservice.
+
+
+How would you know which microservice failed ?
+	Every a couple of seconds kubernetes is configured to perform a health check to see if the microservice is up and running.
+	It is called a hearthbeat, if a sevice is down it will show us in red in kubernetes.
+	There are monitoring an alerting services which we can use for that, like SPLUNK, KIBANA, DATADOG and more.
+	These services can send emails to us to let us know that the service is down.
+
+
+What are the best practices in Microservices ?
+	01. Dockerize it - use docker to create your own service then use it in the pipeline to deploy your app
+	02. Separate build and relesed indipendently
+	03. Have Indipendent Databases for each microservice.
+		
+Technologies stacks for deployments:
+	Docker images - create a docker image tag it and push it into an Azure Container Registry with the build id, 
+	Azure Devops Pipelines - use a deploy.yaml configuration file to release to kubernetes,
+	Release to Kubernetes cluster
+
+
+How to communicate between microservices ?
+	REST which is HTTPS OR HTTP communicaiton, this is where we can directly call the API.
+	All the communication should be stateless.
+	Or use a Service bus like Azure Service Bus, Kafka, RabbitMQ or more, this way if the service is down it will get the message when it gets back up.
+	All our microservices can be calling a redis cashe, this can be used for some kind of communication as well.
+	
+
+
+
+
+What are the source control altrernatives to github ?
+	Bitbucket,
+	GitLab,
+	GitKraken,
+	AWS - Amazon Web Services
+	...
+
+
+
+

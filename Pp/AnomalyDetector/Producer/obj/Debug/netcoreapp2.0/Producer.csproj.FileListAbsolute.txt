@@ -1,0 +1,33 @@
+C:\Users\atana\OneDrive\Desktop\azure-event-hubs-master\azure-event-hubs-master\samples\DotNet\Microsoft.Azure.EventHubs\AnomalyDetector\Producer\bin\Debug\netcoreapp2.0\Producer.deps.json
+C:\Users\atana\OneDrive\Desktop\azure-event-hubs-master\azure-event-hubs-master\samples\DotNet\Microsoft.Azure.EventHubs\AnomalyDetector\Producer\bin\Debug\netcoreapp2.0\Producer.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\azure-event-hubs-master\azure-event-hubs-master\samples\DotNet\Microsoft.Azure.EventHubs\AnomalyDetector\Producer\bin\Debug\netcoreapp2.0\Producer.runtimeconfig.dev.json
+C:\Users\atana\OneDrive\Desktop\azure-event-hubs-master\azure-event-hubs-master\samples\DotNet\Microsoft.Azure.EventHubs\AnomalyDetector\Producer\bin\Debug\netcoreapp2.0\Producer.dll
+C:\Users\atana\OneDrive\Desktop\azure-event-hubs-master\azure-event-hubs-master\samples\DotNet\Microsoft.Azure.EventHubs\AnomalyDetector\Producer\bin\Debug\netcoreapp2.0\Producer.pdb
+C:\Users\atana\OneDrive\Desktop\azure-event-hubs-master\azure-event-hubs-master\samples\DotNet\Microsoft.Azure.EventHubs\AnomalyDetector\Producer\obj\Debug\netcoreapp2.0\Producer.csprojAssemblyReference.cache
+C:\Users\atana\OneDrive\Desktop\azure-event-hubs-master\azure-event-hubs-master\samples\DotNet\Microsoft.Azure.EventHubs\AnomalyDetector\Producer\obj\Debug\netcoreapp2.0\Producer.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\azure-event-hubs-master\azure-event-hubs-master\samples\DotNet\Microsoft.Azure.EventHubs\AnomalyDetector\Producer\obj\Debug\netcoreapp2.0\Producer.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\azure-event-hubs-master\azure-event-hubs-master\samples\DotNet\Microsoft.Azure.EventHubs\AnomalyDetector\Producer\obj\Debug\netcoreapp2.0\Producer.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\azure-event-hubs-master\azure-event-hubs-master\samples\DotNet\Microsoft.Azure.EventHubs\AnomalyDetector\Producer\obj\Debug\netcoreapp2.0\Producer.dll
+C:\Users\atana\OneDrive\Desktop\azure-event-hubs-master\azure-event-hubs-master\samples\DotNet\Microsoft.Azure.EventHubs\AnomalyDetector\Producer\obj\Debug\netcoreapp2.0\Producer.pdb
+C:\Users\atana\OneDrive\Desktop\AnomalyDetector\Producer\bin\Debug\netcoreapp2.0\Producer.deps.json
+C:\Users\atana\OneDrive\Desktop\AnomalyDetector\Producer\bin\Debug\netcoreapp2.0\Producer.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\AnomalyDetector\Producer\bin\Debug\netcoreapp2.0\Producer.runtimeconfig.dev.json
+C:\Users\atana\OneDrive\Desktop\AnomalyDetector\Producer\bin\Debug\netcoreapp2.0\Producer.dll
+C:\Users\atana\OneDrive\Desktop\AnomalyDetector\Producer\bin\Debug\netcoreapp2.0\Producer.pdb
+C:\Users\atana\OneDrive\Desktop\AnomalyDetector\Producer\obj\Debug\netcoreapp2.0\Producer.csprojAssemblyReference.cache
+C:\Users\atana\OneDrive\Desktop\AnomalyDetector\Producer\obj\Debug\netcoreapp2.0\Producer.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\AnomalyDetector\Producer\obj\Debug\netcoreapp2.0\Producer.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\AnomalyDetector\Producer\obj\Debug\netcoreapp2.0\Producer.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\AnomalyDetector\Producer\obj\Debug\netcoreapp2.0\Producer.dll
+C:\Users\atana\OneDrive\Desktop\AnomalyDetector\Producer\obj\Debug\netcoreapp2.0\Producer.pdb
+C:\Users\atana\OneDrive\Desktop\Azure projects\AnomalyDetector\Producer\bin\Debug\netcoreapp2.0\Producer.deps.json
+C:\Users\atana\OneDrive\Desktop\Azure projects\AnomalyDetector\Producer\bin\Debug\netcoreapp2.0\Producer.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\Azure projects\AnomalyDetector\Producer\bin\Debug\netcoreapp2.0\Producer.runtimeconfig.dev.json
+C:\Users\atana\OneDrive\Desktop\Azure projects\AnomalyDetector\Producer\bin\Debug\netcoreapp2.0\Producer.dll
+C:\Users\atana\OneDrive\Desktop\Azure projects\AnomalyDetector\Producer\bin\Debug\netcoreapp2.0\Producer.pdb
+C:\Users\atana\OneDrive\Desktop\Azure projects\AnomalyDetector\Producer\obj\Debug\netcoreapp2.0\Producer.csprojAssemblyReference.cache
+C:\Users\atana\OneDrive\Desktop\Azure projects\AnomalyDetector\Producer\obj\Debug\netcoreapp2.0\Producer.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\Azure projects\AnomalyDetector\Producer\obj\Debug\netcoreapp2.0\Producer.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\Azure projects\AnomalyDetector\Producer\obj\Debug\netcoreapp2.0\Producer.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\Azure projects\AnomalyDetector\Producer\obj\Debug\netcoreapp2.0\Producer.dll
+C:\Users\atana\OneDrive\Desktop\Azure projects\AnomalyDetector\Producer\obj\Debug\netcoreapp2.0\Producer.pdb

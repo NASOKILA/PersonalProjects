@@ -1,0 +1,342 @@
+
+
+Pure functions - They alwais return the same result given the same arguments.
+
+
+-----------------------------
+
+
+SQL vs Non Relational: When to use them ?
+	If a PO passes a JSON that we do not control.
+	In SQL we pay more for setUp like the Server.
+	In Non Relational we pay for the operations performed like getting, setting, serching.
+	
+	SQL are fasted for searcing specially with "indexes", they are used for relational data and more data.
+	SQL came before non relational.
+
+	Running queries in a non relational DB is much slower.
+
+	Non Relational - You are constantly adding new features, functions, data types, 
+			and it’s difficult to predict how the application will grow over time.
+
+	SQL - You’re working with complex queries and reports.
+
+-------------------------------
+
+Indexing:
+	If we have a million results in a table and we want to search by "LastName", this will
+	be very slow. 
+	By adding an Index to the LastName column we make this process alot faster.
+	
+-------------------------------------
+Relations with Foreign keys:
+	If we have and Orders table with CustomerID and an OrderID, if we do not have 
+	FOREIGN KEYS we will not have valid relations so if we put a CustomerID of a customer
+	which does not exist then this will work but is incorrect.
+	If we have FOREIGN KEYS this operation will not be successfull
+-------------------------
+
+CTRL + SHIFT + R - Refresh the cache
+
+--------------------------------------
+SQL Triggers:
+	A trigger is a block of code that defines an action which should happend when a certain operation gets performed on the database.
+	We can do something BEFORE or AFTER some event happens on the database.
+	WE CAN CREATE TRIGGERS FOR ALL CRUD OPERATIONS.
+	WE CAN HAVE LOGIC IN THE TRIGGER ITSELF, LIKE IF STATEMENTS AND MORE.
+	
+	Example: 
+		Any time a row gets deleted from this table, insert a record into another table.
+		We can get the information of the new row that is inserted or deleted and use it for another query, like putting it into another table or something
+
+
+----------------------------
+
+DELIMETER - Is a special key word in SQL which defines the limit of something. 
+		For example -  SELECT* FROM Customer;      that ';' simbol is the DELIMETER because it defines the limit of this query
+
+
+---------------------------
+
+Entity Framework :
+	It simplifies a lot of db operations like creating DB, migrating, 
+	crud operations and more.
+	You can update your database from your code without writing raw SQL, even if EF runs SQL queries under the hood.
+
+	Is used in codefirst and dataabsefirst approach.
+	With database first we import the database in our project, we stil use entity framework.
+
+	DATABASE FIRST: Build your database, create a console app, install entity framework core and entity framework core tools, 
+		run a command which contains a connection string to scaffold your db context.
+
+Eager loading - Is the opposite of lazy loading, here you load everithing even if you do not need it.
+Lazy loading - Is when you load only what you need to use
+Eager loading is similar to lazy loading, here you load the data manually with the.load() method.
+
+
+Docker Compose - 
+
+
+.NET INTERVIEW QUESTIONS:
+
+-------------------------------------
+
+
+Class vs object :
+	a class is a template with properties, an object is an instance of that class.
+
+
+-------------------------------------
+
+
+CLR - Command language runtime (CLR), 
+	It provides exeption handling, type checking and garbage collection for the developers.
+
+
+-------------------------------------
+
+
+Managed code vs unmanaged code:
+	Managed code is executed in the (CLR).
+	Unmanaged code runs in the operating sistem and it is a machine code.
+	in .NET and C# the compiler creates managed code.
+
+
+-------------------------------------
+
+
+Boxing vs unboxing:
+	int i = 13;
+	object myObject = i; 	// boxing - when you turn an object into a type
+	i = (int)myObject;	// unboxing - when you are extracting a type from that object
+
+
+-------------------------------------
+
+
+Value types vs reference types:
+	Value types are int, float, double, decimal, byte, bool, struct ...  
+		It holds the value in its own memory space and when passed from one 
+		method to another it passes a copy so you do not change the real variable.
+
+	Reference type is a string, char, class, arrays, delegates ...
+		It holds the address where that value is stored and when passed from one 
+		method to another it passes the real reference so you can change the 
+		string itself in that method.
+
+
+--------------------------
+
+
+Constants vs readonly variables:
+	Constants cannot be changed and they are evaluated at compiletime.
+	Readonly variables are evaluated at runtime and can be changed in the constructor.
+	
+
+--------------------------
+
+
+LINQ is a famous library used to work with data and objects.
+
+
+-------------------------------------
+
+
+Garbage collection - It is an automatic memory manager for your application.
+	When we create an object the (CLR) creates an object in the HEAP memory space.
+	GC will come and clean the memory by deleting the objects which are not used by the 
+	Main method.
+	To enforce it type System.GC.Collect();
+
+	IN OTHER LANGUAGES LIKE C AND C++, YOU ARE RESPONSIBLE FOR FREEING THE 
+	MEMORY THAT YOU USE.
+
+
+-------------------------------------
+
+
+Stack memory vs Heap memory - 
+	In the stack are stored value types, like int variables, 
+	In the Heap are stored reference types like objects or strings.
+	The Heap is more responsible for storing data and objects.
+	The Stack is responsible for what is been executed in the threat.
+
+
+-------------------------------------
+
+
+Polimorfizm:
+	It is one of the OOP principles.
+	It allows us to have a dog, cat or turtle in an array of class animal.
+	When we iterate it it knows automatically which is which.
+	It is good to use when you do not control which object you are going to reeceive.
+
+
+-----------------------
+
+
+Inheritance : it is good for structure and code reusability.
+
+
+
+-----------------------
+
+
+Abstraction :
+	Everithing in an interface is public, there is no need for access modifiers.
+
+-----------------------
+
+In nested loops a "break" escapes only the inner loop.
+
+-----------------------
+
+Abstract class vs interface :
+	Interface has no body on the properties, everithing is public,
+	In Abstract class you can have the same but also more things because its a class.
+	You can have virtual methods which hold some basic logic, which can be overriden.
+	BOTH CANNOT BE INTANTIATED.
+
+-----------------------
+
+System.Object Class - Is the parent class for all .Net classes, meaning all .NET classes derive from the Object class. 
+	It offers several default methods which every created object will have.
+
+-----------------------
+
+
+Generic methods : You can pass deferent types, its generic, but you cannot have  ageneric handler for your API !!!
+
+
+-----------------------
+
+
+Docker Compose - It works in all environments: production, staging, development, testing and more.
+	It runs container Docker applications, you use the .yaml file for configuration and it runs with only one command.
+	With it we can run multiple apps in containers at the same time.
+	You can run your old .Net Framework projects and include them in your DevOps workflow. 
+
+
+-----------------------
+
+
+Events and delegates:
+	It is about comunication between objects.
+	It is good for looslely coupled applications 
+	Delegates are used when we work with events.
+	Objects can subscribe to events and we can simply notify them about something happenning.
+	We have Publishers and Subscribers. 
+	They make an agreement, that is the DELEGATE, it helps us know which method to call.
+	A delagate is a contract signed by Publishers and Subscribers, this signature is shape of the method itself.
+
+	01.Create a delegate - 
+	02.Create an event based on that delegate - 
+	03.Trigger the event
+	04.Create subscribers for that event
+	05.Subscribe to the event - the methods need to have the same arguments, we do not call the method we just reference them
+	
+
+	We need subscribers to be subscribed to the events before we actually trigger the event.
+
+	You can have deferent services like MessageService, MailService, PageService which send notifications 
+	based on the triggering of one event.
+
+	IMPORTANT !!!
+	Now .Net have build a class named "EventHandler" which allows us to NOT create a delegate every 
+	time we want to trigger an event, we can use that class.
+	SO WE DO NOT NEED TO CREATE OUR OWN DELEGATES ANYMORE.
+
+-----------------------------
+
+With Resharper and code snippets you can code faster because they offer alot of automatic stff which saves the developer time.
+	It makes it easyer to search.
+	It offers error finding, unused variables and more. 
+	And it also offers quickfixes and inspections.
+	It tells us from where this file is coming and from and where it is used.
+	It can generate constructors, methods, properties very easy and fast. 	
+	It has extensions to format on save just like prittier in vs code.
+	It offers support for unit tests projects. Like it allows us to run a specific test just by clicking a button next to it.
+
+-----------------------------
+
+Reflection:
+	It allows our assembly to look at itself and inspect its own caracteristics.
+	Its very powerfull.
+	We can see everithing our assembly has, like classes, theur mehtods and properties, their types and alot more.
+	We can also execute code and methods from reflection but I need an object of that class.
+	You need to get the type of that object with typeof(ClassName); or with obj.GetType();
+	
+	If we have an object we can get and set its properties however we want.
+	We can call its method from reflection.
+	We can set and get private fields as well.
+
+-----------------------------
+
+.NET Attributes - It is just a class which inherits : Attribute
+	We can create the Attribute class to target and be used only for Classes and not Properties
+	Attributes can be specifically created for Classes, Mehtods, Property, Constructors and more...
+	It is good to split them into separate folders.
+
+----------------------------
+
+Design patterns:
+	Most of the times we use design patterns without realising.
+	Many of them come from DDD - Driven Domain Design.
+	Examples:
+		Architecture patterns - MVC, MVVM 
+		Architecture style - REST wich follows HTTP
+		Design patterns - Singleton, Factory	
+
+	
+	Design patterns should come naturally. 
+	If you know 20 of them then you are a very good developer.
+	Design patterns change depending on the tehcnology.
+
+	We wil look at several design patterns:
+		Aggregate root - private collection changed by a public function,
+		Iterator pattern - use a getter to get your collection and iterate,
+		Adapter pattern - makes incompatible third party interfaces compatible to our sistem,
+		Template pattern - change the individual steps but not the structure of the operation, example with an abstract class
+			containing abstract properties for steps but a main NON ABSTRACT method which runs them in correct order,
+		Simple Factory pattern -
+		Factory pattern -
+		Singleton pattern -
+
+
+---------------------------------------
+
+
+ICollection vs IEnumarable vs IList vs IQueriable:
+	They all have separate functionalities good for certain different scenarious.
+	
+	01.IEnumerable - is the most basic one, it does not provide any CRUD operations apart from the indexes for enumeration, 
+		not even the count itself so weneed to iterate to each element to get the total count. It comes from System.Collections
+
+	02.ICollection - is the one that derives from IEnumerable but it has Add, remove and update in the collection and it holds the count. 
+		It comes from System.Collections
+		
+	03.IList - It extends ICollection which in itself extends IEnumerable. IList can use all of the operations provided by IEnumerable
+		and ICollection plus some additional operations about inserting or removing elements in the middle of the list.
+		We can use a foreach loop as a for loop to iterate over the elements in the list. It comes from System.Collections
+
+	04.IQueryable - It extends IEnumerable and it is used to generate LINQ to SQL so it can be used in the database layer to get data. 
+		It comes from System.Linq
+
+
+---------------------------------------
+
+In c# we can inherit classes and implement interfaces at once.
+
+---------------------------------------
+
+
+Task vs Thread :
+	
+
+
+
+
+
+
+
+

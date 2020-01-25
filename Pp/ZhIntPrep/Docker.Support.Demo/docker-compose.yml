@@ -1,0 +1,28 @@
+version: '3.4'
+
+services:
+  docker.support.demo:
+    image: ${DOCKER_REGISTRY-}dockersupportdemo
+    build:
+      context: .
+      dockerfile: Docker.Support.Demo/Dockerfile
+
+  webapplication1:
+    image: ${DOCKER_REGISTRY-}webapplication1
+    build:
+      context: .
+      dockerfile: WebApplication1/Dockerfile
+
+
+  webapplication2:
+    image: ${DOCKER_REGISTRY-}webapplication2
+    build:
+      context: .
+      dockerfile: WebApplication2/Dockerfile
+
+
+  webapplication3:
+    image: ${DOCKER_REGISTRY-}webapplication3
+    build:
+      context: .
+      dockerfile: WebApplication3/Dockerfile

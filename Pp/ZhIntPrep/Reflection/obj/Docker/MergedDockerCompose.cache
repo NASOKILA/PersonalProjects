@@ -1,0 +1,19 @@
+services:
+  webapplication1:
+    build:
+      context: C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Reflection
+      dockerfile: WebApplication1/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTPS_PORT: '44367'
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: webapplication1
+    ports:
+    - published: 50982
+      target: 80
+    - published: 44367
+      target: 443
+    volumes:
+    - C:\Users\atana\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\atana\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

@@ -1,0 +1,11 @@
+C:\Users\atana\OneDrive\Desktop\Redistest\bin\Debug\netcoreapp2.2\Redistest.deps.json
+C:\Users\atana\OneDrive\Desktop\Redistest\bin\Debug\netcoreapp2.2\Redistest.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\Redistest\bin\Debug\netcoreapp2.2\Redistest.runtimeconfig.dev.json
+C:\Users\atana\OneDrive\Desktop\Redistest\bin\Debug\netcoreapp2.2\Redistest.dll
+C:\Users\atana\OneDrive\Desktop\Redistest\bin\Debug\netcoreapp2.2\Redistest.pdb
+C:\Users\atana\OneDrive\Desktop\Redistest\obj\Debug\netcoreapp2.2\Redistest.csprojAssemblyReference.cache
+C:\Users\atana\OneDrive\Desktop\Redistest\obj\Debug\netcoreapp2.2\Redistest.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\Redistest\obj\Debug\netcoreapp2.2\Redistest.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\Redistest\obj\Debug\netcoreapp2.2\Redistest.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\Redistest\obj\Debug\netcoreapp2.2\Redistest.dll
+C:\Users\atana\OneDrive\Desktop\Redistest\obj\Debug\netcoreapp2.2\Redistest.pdb

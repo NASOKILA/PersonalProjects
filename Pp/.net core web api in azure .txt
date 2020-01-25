@@ -1,0 +1,5 @@
+https://blogs.msdn.microsoft.com/benjaminperkins/2017/01/03/create-and-deploy-an-asp-net-core-web-api-to-azure-windows/
+
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-2.2&tabs=visual-studio
+
+https://azure.microsoft.com/en-us/resources/videos/protecting-web-api-backend-with-azure-active-directory-and-api-management/

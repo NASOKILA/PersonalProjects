@@ -1,0 +1,11 @@
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Reflection\Reflection\bin\Debug\netcoreapp2.2\Reflection.dll
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Reflection\Reflection\bin\Debug\netcoreapp2.2\Reflection.deps.json
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Reflection\Reflection\bin\Debug\netcoreapp2.2\Reflection.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Reflection\Reflection\bin\Debug\netcoreapp2.2\Reflection.runtimeconfig.dev.json
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Reflection\Reflection\obj\Debug\netcoreapp2.2\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Reflection\Reflection\obj\Debug\netcoreapp2.2\Reflection.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Reflection\Reflection\obj\Debug\netcoreapp2.2\Reflection.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Reflection\Reflection\obj\Debug\netcoreapp2.2\Reflection.dll
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Reflection\Reflection\obj\Debug\netcoreapp2.2\Reflection.pdb
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Reflection\Reflection\bin\Debug\netcoreapp2.2\Reflection.pdb
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Reflection\Reflection\obj\Debug\netcoreapp2.2\Reflection.csprojAssemblyReference.cache

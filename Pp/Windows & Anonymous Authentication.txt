@@ -1,0 +1,48 @@
+
+
+Windows Authentication :
+	Windows Authentication is good to use for corporate applications where the users are in the same domain.
+	It authenticates with the help of the operating system and it is good for applications where the users are in the same domain.
+	We can use it on corporate networks which use Azure AD groups for identity or Windows Accounts to identify users.	
+	They can work with AAD groups for authorization.
+
+	01. When we build a project, in the Change Authentication window, select Windows Authentication. 
+		We can configure WA upon creation, it from the LaunchSettings.json file or from the Properties of our app, and even with the terminal.
+		
+	02. JUST BUILD THE PROJECT AND YOU WILL SEE YOUR WINDOWS USERNAME ON THE RIGHT. THAT'S IT !!!!!!!!!!!!!!!!!!!!!!!!
+	
+	03. We have to configure WA in the IIS as well.
+	
+	It disables the Anonymous authentication and activates the Windows authentication - check this in the debug tab of your project > properties.
+	The app is configured by default, meaning WI WILL NOT FIND ANY CONFIGURATION IN THE StartUp.cs file.
+	WITH WINDOWS AUTHENTICATION THE [Authorize] AND THE [AllowAnonymous] ATTRIBUTES DO NOT HAVE ANY EFFECT !!!!!!!!!!!
+	If both AllowAnonymous and Windows Authentication is enabled then the AllowAnonymous attribute is overriding the Authorized attribute.
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

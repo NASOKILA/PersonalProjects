@@ -1,0 +1,17 @@
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests.Test\bin\Debug\netcoreapp2.2\RestWebApiWithTests.Test.deps.json
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests.Test\bin\Debug\netcoreapp2.2\RestWebApiWithTests.Test.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests.Test\bin\Debug\netcoreapp2.2\RestWebApiWithTests.Test.runtimeconfig.dev.json
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests.Test\bin\Debug\netcoreapp2.2\RestWebApiWithTests.Test.dll
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests.Test\bin\Debug\netcoreapp2.2\RestWebApiWithTests.Test.pdb
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests.Test\bin\Debug\netcoreapp2.2\RestWebApiWithTests.dll
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests.Test\bin\Debug\netcoreapp2.2\RestWebApiWithTests.pdb
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests.Test\obj\Debug\netcoreapp2.2\RestWebApiWithTests.Test.csprojAssemblyReference.cache
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests.Test\obj\Debug\netcoreapp2.2\RestWebApiWithTests.Test.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests.Test\obj\Debug\netcoreapp2.2\RestWebApiWithTests.Test.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests.Test\obj\Debug\netcoreapp2.2\RestWebApiWithTests.Test.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests.Test\obj\Debug\netcoreapp2.2\RestWebApiWithTests.Test.csproj.CopyComplete
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests.Test\obj\Debug\netcoreapp2.2\RestWebApiWithTests.Test.dll
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests.Test\obj\Debug\netcoreapp2.2\RestWebApiWithTests.Test.pdb

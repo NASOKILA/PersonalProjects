@@ -1,0 +1,10 @@
+C:\Users\atana\OneDrive\Desktop\Azure projects\DatabaseFirst.Demo\DatabaseFirst.Demo\bin\Debug\netcoreapp2.2\DatabaseFirst.Demo.deps.json
+C:\Users\atana\OneDrive\Desktop\Azure projects\DatabaseFirst.Demo\DatabaseFirst.Demo\bin\Debug\netcoreapp2.2\DatabaseFirst.Demo.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\Azure projects\DatabaseFirst.Demo\DatabaseFirst.Demo\bin\Debug\netcoreapp2.2\DatabaseFirst.Demo.runtimeconfig.dev.json
+C:\Users\atana\OneDrive\Desktop\Azure projects\DatabaseFirst.Demo\DatabaseFirst.Demo\bin\Debug\netcoreapp2.2\DatabaseFirst.Demo.dll
+C:\Users\atana\OneDrive\Desktop\Azure projects\DatabaseFirst.Demo\DatabaseFirst.Demo\bin\Debug\netcoreapp2.2\DatabaseFirst.Demo.pdb
+C:\Users\atana\OneDrive\Desktop\Azure projects\DatabaseFirst.Demo\DatabaseFirst.Demo\obj\Debug\netcoreapp2.2\DatabaseFirst.Demo.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\Azure projects\DatabaseFirst.Demo\DatabaseFirst.Demo\obj\Debug\netcoreapp2.2\DatabaseFirst.Demo.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\Azure projects\DatabaseFirst.Demo\DatabaseFirst.Demo\obj\Debug\netcoreapp2.2\DatabaseFirst.Demo.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\Azure projects\DatabaseFirst.Demo\DatabaseFirst.Demo\obj\Debug\netcoreapp2.2\DatabaseFirst.Demo.dll
+C:\Users\atana\OneDrive\Desktop\Azure projects\DatabaseFirst.Demo\DatabaseFirst.Demo\obj\Debug\netcoreapp2.2\DatabaseFirst.Demo.pdb

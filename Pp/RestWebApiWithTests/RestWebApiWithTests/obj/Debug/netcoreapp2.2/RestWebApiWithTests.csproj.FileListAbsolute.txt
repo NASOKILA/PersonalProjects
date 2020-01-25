@@ -1,0 +1,13 @@
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests\bin\Debug\netcoreapp2.2\RestWebApiWithTests.deps.json
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests\bin\Debug\netcoreapp2.2\RestWebApiWithTests.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests\bin\Debug\netcoreapp2.2\RestWebApiWithTests.runtimeconfig.dev.json
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests\bin\Debug\netcoreapp2.2\RestWebApiWithTests.dll
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests\bin\Debug\netcoreapp2.2\RestWebApiWithTests.pdb
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests\obj\Debug\netcoreapp2.2\RestWebApiWithTests.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests\obj\Debug\netcoreapp2.2\RestWebApiWithTests.RazorAssemblyInfo.cache
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests\obj\Debug\netcoreapp2.2\RestWebApiWithTests.RazorAssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests\obj\Debug\netcoreapp2.2\RestWebApiWithTests.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests\obj\Debug\netcoreapp2.2\RestWebApiWithTests.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests\obj\Debug\netcoreapp2.2\RestWebApiWithTests.RazorTargetAssemblyInfo.cache
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests\obj\Debug\netcoreapp2.2\RestWebApiWithTests.dll
+C:\Users\atana\OneDrive\Desktop\RestWebApiWithTests\RestWebApiWithTests\obj\Debug\netcoreapp2.2\RestWebApiWithTests.pdb

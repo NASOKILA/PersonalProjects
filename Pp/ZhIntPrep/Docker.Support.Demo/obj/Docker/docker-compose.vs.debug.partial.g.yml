@@ -1,0 +1,76 @@
+version: '3.4'
+
+services:
+  docker.support.demo:
+    image: dockersupportdemo:dev
+    build:
+      target: base
+    #environment:
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_docker.support.demo$
+    volumes:
+      - C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\Docker.Support.Demo:/app
+      - C:\Users\atana\vsdbg\vs2017u5:/remote_debugger:ro
+#$nuget_volume_mapping_docker.support.demo$
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_docker.support.demo$ bin/Debug/netcoreapp2.2/Docker.Support.Demo.dll"
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/bash -c \"if PID=$$(pidof -x dotnet); then kill $$PID; fi\""
+
+  webapplication1:
+    image: webapplication1:dev
+    build:
+      target: base
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_webapplication1$
+    volumes:
+      - C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\WebApplication1:/app
+      - C:\Users\atana\vsdbg\vs2017u5:/remote_debugger:ro
+#$nuget_volume_mapping_webapplication1$
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_webapplication1$ bin/Debug/netcoreapp2.2/WebApplication1.dll"
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/bash -c \"if PID=$$(pidof -x dotnet); then kill $$PID; fi\""
+
+
+  webapplication2:
+    image: webapplication2:dev
+    build:
+      target: base
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_webapplication2$
+    volumes:
+      - C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\WebApplication2:/app
+      - C:\Users\atana\vsdbg\vs2017u5:/remote_debugger:ro
+#$nuget_volume_mapping_webapplication2$
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_webapplication2$ bin/Debug/netcoreapp2.2/WebApplication2.dll"
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/bash -c \"if PID=$$(pidof -x dotnet); then kill $$PID; fi\""
+
+
+  webapplication3:
+    image: webapplication3:dev
+    build:
+      target: base
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_webapplication3$
+    volumes:
+      - C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\WebApplication3:/app
+      - C:\Users\atana\vsdbg\vs2017u5:/remote_debugger:ro
+#$nuget_volume_mapping_webapplication3$
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_webapplication3$ bin/Debug/netcoreapp2.2/WebApplication3.dll"
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/bash -c \"if PID=$$(pidof -x dotnet); then kill $$PID; fi\""
+

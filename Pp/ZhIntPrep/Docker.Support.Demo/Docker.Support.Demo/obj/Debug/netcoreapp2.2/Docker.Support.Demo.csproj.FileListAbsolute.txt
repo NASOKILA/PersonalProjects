@@ -1,0 +1,11 @@
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\Docker.Support.Demo\bin\Debug\netcoreapp2.2\Docker.Support.Demo.deps.json
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\Docker.Support.Demo\bin\Debug\netcoreapp2.2\Docker.Support.Demo.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\Docker.Support.Demo\bin\Debug\netcoreapp2.2\Docker.Support.Demo.runtimeconfig.dev.json
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\Docker.Support.Demo\bin\Debug\netcoreapp2.2\Docker.Support.Demo.dll
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\Docker.Support.Demo\bin\Debug\netcoreapp2.2\Docker.Support.Demo.pdb
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\Docker.Support.Demo\obj\Debug\netcoreapp2.2\Docker.Support.Demo.csprojAssemblyReference.cache
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\Docker.Support.Demo\obj\Debug\netcoreapp2.2\Docker.Support.Demo.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\Docker.Support.Demo\obj\Debug\netcoreapp2.2\Docker.Support.Demo.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\Docker.Support.Demo\obj\Debug\netcoreapp2.2\Docker.Support.Demo.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\Docker.Support.Demo\obj\Debug\netcoreapp2.2\Docker.Support.Demo.dll
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\Docker.Support.Demo\obj\Debug\netcoreapp2.2\Docker.Support.Demo.pdb

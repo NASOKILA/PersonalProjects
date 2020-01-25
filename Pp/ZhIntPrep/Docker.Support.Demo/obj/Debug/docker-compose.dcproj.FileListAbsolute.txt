@@ -1,0 +1,15 @@
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\bin\Debug\Docker.Support.Demo.dll
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\bin\Debug\Docker.Support.Demo.pdb
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\bin\Debug\WebApplication1.Views.dll
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\bin\Debug\WebApplication1.Views.pdb
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\bin\Debug\WebApplication1.dll
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\bin\Debug\WebApplication1.pdb
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\bin\Debug\WebApplication2.dll
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\bin\Debug\WebApplication2.pdb
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\bin\Debug\WebApplication3.Views.dll
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\bin\Debug\WebApplication3.Views.pdb
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\bin\Debug\WebApplication3.dll
+C:\Users\atana\OneDrive\Desktop\ZhIntPrep\Docker.Support.Demo\bin\Debug\WebApplication3.pdb

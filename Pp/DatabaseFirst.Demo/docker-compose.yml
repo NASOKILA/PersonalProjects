@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  codefirst.demo:
+    image: ${DOCKER_REGISTRY-}codefirstdemo
+    build:
+      context: .
+      dockerfile: CodeFirst.Demo/Dockerfile

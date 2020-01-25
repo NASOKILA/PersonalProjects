@@ -1,0 +1,7 @@
+services:
+  codefirst.demo:
+    build:
+      context: C:\Users\atana\OneDrive\Desktop\Azure projects\DatabaseFirst.Demo
+      dockerfile: CodeFirst.Demo/Dockerfile
+    image: codefirstdemo
+version: '3.4'

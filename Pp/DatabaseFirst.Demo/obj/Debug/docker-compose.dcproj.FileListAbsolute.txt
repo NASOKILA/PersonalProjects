@@ -1,0 +1,5 @@
+C:\Users\atana\OneDrive\Desktop\Azure projects\DatabaseFirst.Demo\bin\Debug\CodeFirst.Demo.dll
+C:\Users\atana\OneDrive\Desktop\Azure projects\DatabaseFirst.Demo\bin\Debug\CodeFirst.Demo.pdb
+C:\Users\atana\OneDrive\Desktop\Azure projects\DatabaseFirst.Demo\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\atana\OneDrive\Desktop\Azure projects\DatabaseFirst.Demo\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\Azure projects\DatabaseFirst.Demo\obj\Debug\docker-compose.dcproj.CopyComplete

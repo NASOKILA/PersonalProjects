@@ -1,0 +1,8 @@
+C:\Users\atana\OneDrive\Desktop\TodoApi\TodoApi.Models\bin\Debug\netcoreapp2.2\TodoApi.Models.deps.json
+C:\Users\atana\OneDrive\Desktop\TodoApi\TodoApi.Models\bin\Debug\netcoreapp2.2\TodoApi.Models.dll
+C:\Users\atana\OneDrive\Desktop\TodoApi\TodoApi.Models\bin\Debug\netcoreapp2.2\TodoApi.Models.pdb
+C:\Users\atana\OneDrive\Desktop\TodoApi\TodoApi.Models\obj\Debug\netcoreapp2.2\TodoApi.Models.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\TodoApi\TodoApi.Models\obj\Debug\netcoreapp2.2\TodoApi.Models.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\TodoApi\TodoApi.Models\obj\Debug\netcoreapp2.2\TodoApi.Models.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\TodoApi\TodoApi.Models\obj\Debug\netcoreapp2.2\TodoApi.Models.dll
+C:\Users\atana\OneDrive\Desktop\TodoApi\TodoApi.Models\obj\Debug\netcoreapp2.2\TodoApi.Models.pdb
