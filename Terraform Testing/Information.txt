@@ -1,0 +1,5 @@
+Article:
+https://medium.com/swlh/a-jump-start-on-terraform-testing-295522cdb407
+
+Repository:
+https://github.com/mSm1th/terraform_testing
